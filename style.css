@@ -3,13 +3,22 @@
 }
 
 body {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC';
+    background-color: #d3d3e3;
+    font-weight: 700;
+
     
 }
 
 header {
     font-weight: 700;
-    background-image: url("/img/dirtypour.png");
-    background-size: cover;
     text-align: center;
 }
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+/* Media Queries */
+
